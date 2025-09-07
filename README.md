@@ -47,42 +47,33 @@
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/86929903-f323-4bee-a695-5a491750e012" />
 
 <br>
--로그인 후, 헤더에 마이페이지 버튼이 활성화되며, 마이페이지에서 회원의 기본 정보를 확인할 수 있습니다.
+-기본적인 정보들을 입력후 회원가입을 완료합니.
 <br>
-- 개인정보 수정은 아이디와 비밀번호 인증을 거친 후에 가능합니다.
+- 비밀번호 및 전화번호 정규화, 동의사항 체크 여부 등 다양한 유효성 검사를 시행합니다.
 </details>
 
 <details>
 <summary>로그인 (Click)</summary>
-
-<img src="https://github.com/user-attachments/assets/174d0a75-bd29-4514-8ce7-b9e7e5266a48" width="500">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/53588e41-d3c0-49b9-85c7-b1eeeb1ed6d0" />
 <br>
--아이디와 비밀번호가 일치하지 않을 시 개인정보 수정이 불가능합니다.
+-아이디와 비밀번호가 일치하지 않을 시 로그인이 불가능합니다.
 
 </details>
 
 <details>
-<summary>아이디 찾기 (Click)</summary>
+<summary>아이디 찾기 및 결과 (Click)</summary>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3b967b0a-bc1c-4a71-8ece-f4e0b4c131b7" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7781d332-25c7-492f-af65-9eed008fe8f4" />
 
-<img src="https://github.com/user-attachments/assets/62dc7769-8223-411a-8ba1-40fb56b89619" width="500">
 <br>
--기존 회원 닉네임, 비밀번호 등을 보여줍니다.
-<br>
--닉네임과 비밀번호 유효성 검사를 실행하였습니다.
-<br>
--닉네임이 중복될 경우 사용 불가능이라는 경고창을 표시합니다.
-<br>
--비밀번호와 새 비밀번호가 일치하지 않거나 빈 값일 경우, 화면에 경고 메시지를 출력하고 입력 필드의 테두리를 빨간색으로 강조합니다.
-<br>
--개인정보수정 버튼을 누르면 마이페이지로 이동하여, 변경된 정보를 확인할 수 있습니다.
+-입력한 정보와 일치한 회원이 있을 경우 결과화면을 보여줍니다.
 </details>
 
 <details>
 <summary>비밀번호 찾기 및 변경 (Click)</summary>
-
-<img src="https://github.com/user-attachments/assets/ff2b93fc-d316-4c7f-ab35-3e2ee913bdbf" width="500">
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/aa698815-0788-4342-abd0-301259cd92f6" />
 <br>
--로그인한 회원이 작성한 글 목록을 확인할 수 있습니다.
+-입력한 정보와 일치한 회원이 있을 경우 비밀번호 변경 페이지로 이동합니다.
 <br>
--제목을 클릭하면 글 상세 페이지로 이동하며, 해당 글을 수정하거나 삭제할 수 있습니다.
+-정규표현식을 유지한 비밀번호만으로 변경이 가능합니다.
 </details>
