@@ -44,8 +44,8 @@
 ## 🏷담당 작업
 <details>
 <summary>회원가입 (Click)</summary>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/86929903-f323-4bee-a695-5a491750e012" />
 
-<img src="https://github.com/user-attachments/assets/e5af7ac2-d824-4fe7-85c4-5ce9ea61a24f" width="500">
 <br>
 -로그인 후, 헤더에 마이페이지 버튼이 활성화되며, 마이페이지에서 회원의 기본 정보를 확인할 수 있습니다.
 <br>
