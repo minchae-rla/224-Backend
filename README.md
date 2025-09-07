@@ -17,7 +17,7 @@
  
 
 ## 🔗팀 구성
-**Producer Git-hut Page 정시우**
+**Producer Git-hut Page 김민채**
 
 |팀장|강수정|           
 |:--:|:--:|
@@ -43,7 +43,7 @@
 >
 ## 🏷담당 작업
 <details>
-<summary>마이페이지 (Click)</summary>
+<summary>회원가입 (Click)</summary>
 
 <img src="https://github.com/user-attachments/assets/e5af7ac2-d824-4fe7-85c4-5ce9ea61a24f" width="500">
 <br>
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-<summary>개인정보확인 (Click)</summary>
+<summary>로그인 (Click)</summary>
 
 <img src="https://github.com/user-attachments/assets/174d0a75-bd29-4514-8ce7-b9e7e5266a48" width="500">
 <br>
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-<summary>개인정보수정 (Click)</summary>
+<summary>아이디 찾기 (Click)</summary>
 
 <img src="https://github.com/user-attachments/assets/62dc7769-8223-411a-8ba1-40fb56b89619" width="500">
 <br>
@@ -78,29 +78,11 @@
 </details>
 
 <details>
-<summary>내가 작성한 글 (Click)</summary>
+<summary>비밀번호 찾기 및 변경 (Click)</summary>
 
 <img src="https://github.com/user-attachments/assets/ff2b93fc-d316-4c7f-ab35-3e2ee913bdbf" width="500">
 <br>
 -로그인한 회원이 작성한 글 목록을 확인할 수 있습니다.
 <br>
 -제목을 클릭하면 글 상세 페이지로 이동하며, 해당 글을 수정하거나 삭제할 수 있습니다.
-</details>
-
-<details>
-<summary>찜목록 (Click)</summary>
-
-<img src="https://github.com/user-attachments/assets/94ebe0e6-cdc0-43a7-8133-db0a6848b574" width="500">
-<br>
--로그인한 회원은 메인 페이지와 핫플콕콕에서 찜 기능을 사용하여 관심 있는 항목을 찜할 수 있습니다.
-<br>
--마이페이지의 찜목록에서 회원이 찜한 항목들을 확인할 수 있습니다.
-</details>
-
-<details>
-<summary>회원탈퇴 (Click)</summary>
-
-<img src="https://github.com/user-attachments/assets/bdaf5d8f-2a5d-43cb-9a96-63bcb350f90b" width="500">
-<br>
--"동의합니다" 유효성 검사를 통과하면 회원 탈퇴가 가능해집니다.
 </details>
